@@ -2,7 +2,9 @@
 Generate invite codes for Hackthebox.eu
 
 Installation:
+```Shell
 pip3 install -r requirements.txt
+```
 
 Usage:
 hackthebox.py <numer invite codes to print>
