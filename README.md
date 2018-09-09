@@ -7,7 +7,9 @@ pip3 install -r requirements.txt
 ```
 
 Usage:
+```Shell
 hackthebox.py <numer invite codes to print>
+```
   
 Windows:
 ```Shell
